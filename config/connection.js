@@ -1,5 +1,7 @@
+// import sequelize from library
 const Sequelize = require('sequelize');
 
+// enable .env file
 require('dotenv').config();
 
 // create connection to our db
