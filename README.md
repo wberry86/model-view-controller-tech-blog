@@ -32,5 +32,11 @@
   - Email: wberry86@gmail.com
 
   ## Links:
+  [Link to Portfolio](https://github.com/wberry86/model-view-controller-tech-blog/)
 
   ## Screenshots:
+  ![Screenshot1](https://github.com/wberry86/model-view-controller-tech-blog/blob/main/assets/images/Capture-1.PNG)
+  <br>
+  ![Screenshot1](https://github.com/wberry86/model-view-controller-tech-blog/blob/main/assets/images/Capture-2.PNG)
+  <br>
+  ![Screenshot1](https://github.com/wberry86/model-view-controller-tech-blog/blob/main/assets/images/Capture-3.PNG)
