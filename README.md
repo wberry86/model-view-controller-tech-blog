@@ -15,7 +15,14 @@
   ## Description:
   Tech blog is an exercise meant to focus on (MVC) style programming in order to build a blog site where developers can publish blog posts as well as comment on other developers posts. Tech blog will utilize handlebars.js as the template language, sequelize as the ORM, and express-session NPM package for authentication.  
   ## Installation:
-  n/a
+  Packages used:
+  - bcrypt
+  - sequelize
+  - dotenv
+  - express
+  - express-handlebars
+  - express-session
+  - mysql2
   ## Usage:
   n/a
   ## License:
