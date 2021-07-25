@@ -39,7 +39,7 @@
   - Email: wberry86@gmail.com
 
   ## Links:
-  [Link to Portfolio](https://github.com/wberry86/model-view-controller-tech-blog/)
+  [Link to Heroku live page](https://sensationnel-choucroute-59294.herokuapp.com/)
 
   ## Screenshots:
   ![Screenshot1](https://github.com/wberry86/model-view-controller-tech-blog/blob/main/assets/images/Capture-1.PNG)
