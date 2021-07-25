@@ -38,7 +38,7 @@
   - Github: [wberry86](https://github.com/wberry86)
   - Email: wberry86@gmail.com
 
-  ## Links:
+  ## Link:
   [Link to Heroku live page](https://sensationnel-choucroute-59294.herokuapp.com/)
 
   ## Screenshots:
